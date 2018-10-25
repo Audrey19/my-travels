@@ -11,9 +11,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Simpsons Quotes</h1>
+          <h1 className="App-title">Travel</h1>
         </header>
-        <Travel />
+
         <Travel
           destination="Lisbonne"
           country="Portugal"
@@ -31,4 +31,4 @@ class App extends Component {
   }
 }
 
-export default Travel;
+export default App;
