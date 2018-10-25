@@ -17,13 +17,13 @@ class App extends Component {
         <Travel
           destination="Lisbonne"
           country="Portugal"
-          photo="https://i.goopics.net/wL3O9.jpg"
+          photo="https://madeinmarseille.net/actualites-marseille/2016/10/tramway-lisbonne-tourisme-visite.jpg"
           distance="1,585 km"
         />
         <Travel
           destination="Namur"
           country="belgium"
-          photo="https://i.goopics.net/dkm1y.jpg"
+          photo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/01-Namur-290305_%283%29_JPG.jpg/1200px-01-Namur-290305_%283%29_JPG.jpg"
           distance="69 km"
         />
       </div>
